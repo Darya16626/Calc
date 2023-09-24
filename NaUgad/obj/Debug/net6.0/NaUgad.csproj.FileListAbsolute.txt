@@ -1,0 +1,14 @@
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\bin\Debug\net6.0\NaUgad.exe
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\bin\Debug\net6.0\NaUgad.deps.json
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\bin\Debug\net6.0\NaUgad.runtimeconfig.json
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\bin\Debug\net6.0\NaUgad.dll
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\bin\Debug\net6.0\NaUgad.pdb
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.AssemblyInfoInputs.cache
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.AssemblyInfo.cs
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.csproj.CoreCompileInputs.cache
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.dll
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\refint\NaUgad.dll
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.pdb
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\NaUgad.genruntimeconfig.cache
+C:\Users\adv_m\source\repos\NaUgad\NaUgad\obj\Debug\net6.0\ref\NaUgad.dll
